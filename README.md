@@ -2,6 +2,10 @@
 
 Bem-vindos ao repositório do primeiro projeto do canal **Bugueiros Anônimos**! Este site foi criado para demonstrar o canal de forma rápida e acessível, com um visual clean e direto ao ponto, inspirado na identidade do canal.
 
+Este será um projeto onde visamos apresentar aulas sobre programação, construções de projetos simples e complexos (live code), e mais sobre tecnologias.
+
+O "Bugueiros" nasce com o intuito de mostrar que na vida de programação nem tudo é fácil, mas também não é impossível, ao longo da jornada vamos encontrar bugs e ver como eles são importantes para o desenvolvimento do sistema e até de nós mesmos.
+
 ## 🌐 Acesse o Site
 
 [Visite o site aqui](https://github.com/IgorBaio/Bugueiros-Anonimos)
