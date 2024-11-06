@@ -8,7 +8,7 @@ O "Bugueiros" nasce com o intuito de mostrar que na vida de programação nem tu
 
 ## 🌐 Acesse o Site
 
-[Visite o site aqui](https://github.com/IgorBaio/Bugueiros-Anonimos)
+[Visite o site aqui](https://igorbaio.github.io/Bugueiros-Anonimos/)
 
 ## 🖥️ Descrição do Projeto
 
