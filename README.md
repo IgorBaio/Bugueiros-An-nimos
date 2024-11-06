@@ -4,7 +4,7 @@ Bem-vindos ao repositório do primeiro projeto do canal **Bugueiros Anônimos**!
 
 ## 🌐 Acesse o Site
 
-[Visite o site aqui](https://github.com/IgorBaio/Bugueiros-An-nimos)
+[Visite o site aqui](https://github.com/IgorBaio/Bugueiros-Anonimos)
 
 ## 🖥️ Descrição do Projeto
 
@@ -17,7 +17,7 @@ Este projeto é uma **One-page** simples, com seções para:
 
 ## 📸 Demonstração
 
-![Screenshot do Site](imagem-demo.png)
+![Screenshot do Site](./assets/logo.jpg)
 
 ## 🚀 Tecnologias Utilizadas
 
